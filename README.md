@@ -65,8 +65,7 @@ In your HTML pages:
   ...
     <!-- Best placed at the end of body to not delay page loading -->
     <script src="https://unpkg.com/stellar-sdk/dist/stellar-sdk.min.js"></script>
-    <script src="https://unpkg.com/stellar-oc-multisig/web/multisig.js"></script>
-    <script>var CosmicLink = cosmicLib.CosmicLink</script>
+    <script src="https://raw.github.com/MisterTicot/web-stellar-oc-multisig/master/multisig.js"></script>
   </body>
 ```
 
