@@ -2,12 +2,12 @@
   "name": "cosmic-plus-oc-multisig",
   "description": "Implements on-chain signature & transaction sharing for Stellar",
   "authors": [ "MisterTicot" ],
-  "homepage": "https://github.com/cosmic-plus/oc-multisig",
+  "homepage": "https://cosmic.plus/#view:js-oc-multisig",
   "licence": "MIT",
-  "keywords": [ "cryptocurrency", "stellar", "on-chain", "multisig", "signature", "transaction", "sharing" ],
+  "keywords": [ "stellar", "SEP-0021", "multisig", "trustless", "on-chain", "signature", "collection", "transaction", "sharing", "browser", "node" ],
   "main": "multisig.js",
   "ignore": [ ".*", "package-lock.json", "doc" ],
   "dependencies": {
-    "stellar-sdk": ">=0.12.0"
+    "stellar-sdk": "^2.0.1"
   }
 }
