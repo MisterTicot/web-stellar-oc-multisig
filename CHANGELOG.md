@@ -1,6 +1,21 @@
+**oc-multisig /**
+[Readme](README.md)
+• [Contributing](CONTRIBUTING.md)
+• [Changelog](CHANGELOG.md)
+
 # Changelog
 
 All notable changes to this project will be documented in this file.
+
+## 0.5.0 - 2019-08-10
+
+### Added
+
+- Add documentation header navigation.
+
+### Fixed
+
+- Make bundlers pick the transpiled code.
 
 ## 0.4.4 - 2019-07-26
 

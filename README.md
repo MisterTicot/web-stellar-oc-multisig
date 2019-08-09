@@ -1,7 +1,12 @@
-# @cosmic-plus/oc-multisig
+**oc-multisig /**
+[Readme](README.md)
+• [Contributing](CONTRIBUTING.md)
+• [Changelog](CHANGELOG.md)
+
+# Readme
 
 ![Licence](https://img.shields.io/github/license/cosmic-plus/js-oc-multisig.svg)
-[![Dependencies](https://david-dm.org/cosmic-plus/js-oc-multisig/status.svg)](https://david-dm.org/cosmic-plus/js-oc-multisig)
+[![Dependencies](https://img.shields.io/david/cosmic-plus/js-oc-multisig)](https://david-dm.org/cosmic-plus/js-oc-multisig)
 ![Vulnerabilities](https://img.shields.io/snyk/vulnerabilities/npm/@cosmic-plus/oc-multisig.svg)
 ![Size](https://img.shields.io/bundlephobia/minzip/@cosmic-plus/oc-multisig.svg)
 ![Downloads](https://img.shields.io/npm/dt/@cosmic-plus/oc-multisig.svg)
