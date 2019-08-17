@@ -7,6 +7,12 @@
 
 All notable changes to this project will be documented in this file.
 
+## 0.5.1 - 2019-08-17
+
+### Fixed
+
+- Doc: Generate CONTRIBUTING.html, remove duplicate title.
+
 ## 0.5.0 - 2019-08-10
 
 ### Added
